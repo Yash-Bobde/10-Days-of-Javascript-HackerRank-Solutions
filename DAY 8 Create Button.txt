@@ -11,7 +11,21 @@ var btn = document.getElementById("btn");
 		var current_value = this.innerHTML;
 		this.innerHTML = parseInt(current_value)+1;
 	});
- 
+\
+var btn = document.getElementById("btn");
+	btn.addEventListener("click",function() {
+		var current_value = this.innerHTML;
+		this.innerHTML = parseInt(current_value)+1;
+	});
+	var btn = document.getElementById("btn");
+	btn.addEventListener("click",function() {
+		var current_value = this.innerHTML;
+		this.innerHTML = parseInt(current_value)+1;
+	});var btn = document.getElementById("btn");
+	btn.addEventListener("click",function() {
+		var current_value = this.innerHTML;
+		this.innerHTML = parseInt(current_value)+1;
+	});
  //index.html
  <!DOCTYPE html>
 <html>
